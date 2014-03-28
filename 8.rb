@@ -1,0 +1,3 @@
+def square liauwechygfakcuewhalcufe
+liauwechygfakcuewhalcufe * liauwechygfakcuewhalcufe
+end
